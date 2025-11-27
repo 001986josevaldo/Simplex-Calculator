@@ -185,7 +185,7 @@ class _OtimizacaoScreenState extends State<OtimizacaoScreen> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
-            _buildSectionTitle("1. Função Objetivo"),
+            _buildSectionTitle("1. Função Objetivo ()"),
             Row(
               children: [
                 Expanded(
