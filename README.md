@@ -19,8 +19,10 @@ Um aplicativo móvel desenvolvido em **Flutter** para resolver problemas de Prog
 
 ## 📱 Capturas de Tela (Screenshots)
 
-<img src="./screenshots/conf_simplex.png" width="300">
-<img src="./screenshots/inserir_dados.jpeg" width="300">
+<div style="display: flex; flex-direction: row;">
+  <img src="screenshots/conf_simplex.png" width="250" alt="Tela de Configuração">
+  &nbsp; &nbsp; &nbsp; <img src="screenshots/inserir_dados.jpeg" width="250" alt="Tela de Inserção">
+</div>
 
 ## 🧮 Como Funciona (Lógica)
 
