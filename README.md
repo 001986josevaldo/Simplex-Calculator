@@ -7,7 +7,8 @@ Um aplicativo móvel desenvolvido em **Flutter** para resolver problemas de Prog
 - **Configuração Dinâmica:** Defina a quantidade de variáveis ($n$) e restrições ($m$) através de sliders interativos.
 - **Geração de Interface:** Os campos de entrada são gerados automaticamente baseados na configuração do usuário.
 - **Algoritmo Simplex:** Implementação pura em Dart do algoritmo Simplex (sem dependências externas de solvers), capaz de lidar com iterações até encontrar o valor ótimo.
-- **Resultados Detalhados:** Exibe o Lucro Máximo ($Z$) e os valores ideais para cada variável de decisão ($x_1, x_2, ...$).
+- **Resultados Detalhados:** Exibe o Lucro Máximo ($Z$) e os valores ideais para cada variável de decisão
+  ($x_1, x_2, ...$).
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -18,7 +19,8 @@ Um aplicativo móvel desenvolvido em **Flutter** para resolver problemas de Prog
 
 ## 📱 Capturas de Tela (Screenshots)
 
-<img src="caminho_para_sua_imagem.png" width="300">
+<img src="img/conf_simplex.png" width="300">
+<img src="img/inserir_dados.jpeg" width="300">
 
 ## 🧮 Como Funciona (Lógica)
 
