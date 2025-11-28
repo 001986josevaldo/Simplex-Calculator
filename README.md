@@ -37,7 +37,7 @@ O núcleo do projeto é a classe `SimplexSolver`, que realiza:
 
 ```bash
 # Clone este repositório
-$ git clone [https://github.com/seu-usuario/flutter-simplex-solver.git](https://github.com/seu-usuario/flutter-simplex-solver.git)
+$ git clone https://github.com/001986josevaldo/Simplex-Calculator.git
 
 # Entre na pasta
 $ cd flutter-simplex-solver
